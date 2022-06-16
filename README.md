@@ -1,2 +1,2 @@
 # Essay_AIMS_2022
-Everything about my essay including codes , Datasets and Workflows
+ This python code  contains a loss function with penalty to solve the problem of imbalanced classes and also the simple ANN to detect if a transaction is fraudulent or not in the case of credit  card fraud. 
